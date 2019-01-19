@@ -1,2 +1,2 @@
 # pipeline-calculations
-Calculation of mass flow rate according to difference in potential energy
+Calculation of mass flow rate due to difference in potential energy, and vice versa; calculating what is the potential highet difference that caused a specific amount of flow rate.
